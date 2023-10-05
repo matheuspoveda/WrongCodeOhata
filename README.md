@@ -1,3 +1,6 @@
+# Teste da Caixa Branca - ETAPA 1
+• Este exercicios serve para nos olharmos com um olhar questionador o codigo que foi feito sobre a conexao do banco de dados, dando enfase em todos detalhes errados, pontuando na revisao abaixo.
+
 # Revisao do codigo
 • A unica parte do codigo que esta com uma simples documentacao é a parte da "Instrucao SQL" que na verdade nao documenta nada!
 
